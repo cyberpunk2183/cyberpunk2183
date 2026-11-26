@@ -1,6 +1,6 @@
 # Olá, sou o cyberpunk2183 🇧🇷
 
-TI, suporte técnico e automação. Construo ferramentas para que agentes de IA controlem coisas reais: dispositivos Android, o navegador e câmeras.
+TI, suporte técnico e automação. Construo ferramentas para que agentes de IA controlem coisas reais
 
 ## Stack
 
